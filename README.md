@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-Projects
+# Data-Analytics-Portfolio
 Examine structure of a dataset and identify trends and patterns
